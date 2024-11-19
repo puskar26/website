@@ -28,7 +28,7 @@ function Home() {
         <div>
           <p className="text-2xl sm:text-3xl">
             I'm a
-            <span className="ml-2 text-3xl font-bold text-blue-600 uppercase">
+            <span className="ml-2 text-3xl font-bold text-amber-500 uppercase">
               {text}
             </span>
             <Cursor />

@@ -16,13 +16,13 @@ function Card({ title, description }) {
           <p className="bg-green-100   px-3 py-1 rounded-full">JavaScript</p>
         </div>
         <div className="flex gap-4 font-semibold mt-4">
-          <button className="group bg-blue-600 text-white text-[12px] sm:text-base px-4 py-2 rounded-lg hover:bg-blue-700">
+          <button className="font-quicksand font-semibold tracking-widest uppercase text-[14px] group bg-amber-500 text-white   px-4 py-2  hover:bg-amber-400">
             View Live{" "}
             <span className="ml-2 inline-block transform transition-transform duration-200 ease-in-out group-hover:translate-x-2">
               &rarr;
             </span>
           </button>
-          <button className="bg-gray-100 text-gray-700 text-[12px] sm:text-base px-4 py-2 rounded-lg hover:bg-gray-200">
+          <button className="font-quicksand font-semibold tracking-widest uppercase  bg-gray-100 text-gray-700 text-[14px]  px-4 py-2  hover:bg-gray-200">
             Source Code
           </button>
         </div>

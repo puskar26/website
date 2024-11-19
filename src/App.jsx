@@ -84,7 +84,7 @@ function App() {
             <div className="flex  w-[100%] bg-slate-300">{/* <About /> */}</div>
           </section>
         </main>
-        <footer>
+        <footer className="flex flex-col mt-10">
           <div>
             <Footer />
           </div>

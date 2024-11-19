@@ -54,7 +54,7 @@ function Header() {
                 ></path>
               </svg>
             </button>
-            <button className="bg-blue-600 text-slate-100 text-[18px] py-2 px-4 rounded-md">
+            <button className="bg-amber-500 uppercase text-white text-[14px] tracking-widest py-2 px-3 hover:bg-amber-400">
               Contact
             </button>
           </div>
